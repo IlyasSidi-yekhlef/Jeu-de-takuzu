@@ -1,0 +1,3 @@
+C:/Users/sidiy/CLionProjects/uzu/cmake-build-debug/CMakeFiles/uzu.dir
+C:/Users/sidiy/CLionProjects/uzu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sidiy/CLionProjects/uzu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
